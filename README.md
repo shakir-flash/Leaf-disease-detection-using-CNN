@@ -11,7 +11,7 @@ train - 70,295 images divided into 38 classes with 1,642 to 2,022 images per cla
 valid - 17,572 images divided into 38 classes with 410 to 505 images per class.\
 test - 33 images (These images are not divided into their respective classes but the class can be inferred from the image filename)\
 
-## Requisite:
+## Requisite
 System requisite:
 Hardware:
 1. System : Intel core i5 2.7 GHz.
@@ -26,7 +26,7 @@ The external libraries required for running Train.ipynb are:
 5. Sklearn/scikit-learn
 6. Tensorflow (Version 2.3.0 or higher preferred), TFlearn
 
-## Model:
+## Model
 
 The different layers used in this model are as follows:
 
@@ -36,7 +36,7 @@ Segmentation\
 Feature extraction: Input, Convolutional Layer, ReLu layer, pooling layer, FC layer \
 Neural Network classification
 
-## Structure:
+## Structure
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/307a8ca9-65c3-46af-bdbd-34929294b840)
 
@@ -46,9 +46,11 @@ Neural Network classification
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/1e3a2abc-8234-405c-926f-3e4a822afc96)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/06f271d9-03b9-4bec-9f11-d1d3c17a3d9c)
 
-![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/c560fdea-f8af-4198-ac57-8b63177b4585)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/8ffce665-cb71-40b7-a4b6-44830b6c95f6)
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/c560fdea-f8af-4198-ac57-8b63177b4585)   
 
-## Outputs:
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/8ffce665-cb71-40b7-a4b6-44830b6c95f6)
+
+## Outputs
 
 Generated output is in the form of a UI, which shows the details of leaf disease, and recommendation for the type of disease.
 
