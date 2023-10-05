@@ -1,5 +1,5 @@
 # Leaf-disease-detection-using-CNN
-Project to detect type of leaf disease and provide recommendation using Convolutional Neural Networks
+Project to detect type of leaf disease and provide recommendation using Convolutional Neural Networks.
 
 ## Dataset
 The dataset for this project can be downloaded from:\
@@ -42,9 +42,9 @@ Neural Network classification
 
 ## Epoch vs Accuracy and loss
 
-![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/dcdde200-de5a-4577-bbc0-d17234be9869)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/1e3a2abc-8234-405c-926f-3e4a822afc96)
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/dcdde200-de5a-4577-bbc0-d17234be9869)   
 
-![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/06f271d9-03b9-4bec-9f11-d1d3c17a3d9c)
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/1e3a2abc-8234-405c-926f-3e4a822afc96)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/06f271d9-03b9-4bec-9f11-d1d3c17a3d9c)
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/c560fdea-f8af-4198-ac57-8b63177b4585)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/8ffce665-cb71-40b7-a4b6-44830b6c95f6)
 
@@ -52,7 +52,7 @@ Neural Network classification
 
 Generated output is in the form of a UI, which shows the details of leaf disease, and recommendation for the type of disease.
 
-Healthy leaf:\
+Healthy leaf:
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/07fe59cf-10e5-467f-910e-8e25da14217c)
 
