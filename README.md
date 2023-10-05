@@ -44,7 +44,9 @@ Neural Network classification
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/dcdde200-de5a-4577-bbc0-d17234be9869)   
 
-![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/1e3a2abc-8234-405c-926f-3e4a822afc96)   ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/06f271d9-03b9-4bec-9f11-d1d3c17a3d9c)
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/1e3a2abc-8234-405c-926f-3e4a822afc96)   
+
+![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/06f271d9-03b9-4bec-9f11-d1d3c17a3d9c)
 
 ![image](https://github.com/shakir-flash/Leaf-disease-detection-using-CNN/assets/59859522/c560fdea-f8af-4198-ac57-8b63177b4585)   
 
