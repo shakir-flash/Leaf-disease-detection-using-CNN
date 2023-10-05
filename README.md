@@ -1,8 +1,8 @@
 # Leaf-disease-detection-using-CNN
 Project to detect type of leaf disease and provide recommendation using Convolutional Neural Networks
 
-##Dataset
-The dataset for this project can be downloaded from:
+## Dataset
+The dataset for this project can be downloaded from:\
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 The dataset is divided into three parts as follows:  
