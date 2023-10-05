@@ -19,16 +19,16 @@ Hardware: -\
 3. Ram : 8 GB\
 
 The external libraries required for running Train.ipynb are:\
-Numpy, CV2\
-Pandas\
-Scipy
-Matplotlib\
-Sklearn/scikit-learn\
-Tensorflow (Version 2.3.0 or higher preferred), TFlearn\
+1. Numpy, CV2\
+2. Pandas\
+3. Scipy
+4. Matplotlib\
+5. Sklearn/scikit-learn\
+6. Tensorflow (Version 2.3.0 or higher preferred), TFlearn\
 
 ## Model:
 
-The different layers used in this model are as follows:\
+The different layers used in this model are as follows:
 
 Input\
 Pre-processing\
